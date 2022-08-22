@@ -1,0 +1,15 @@
+* {
+    text-decoration: white;
+  }
+  
+  form {
+    background-color: gray;
+    text-align: center;
+    display: grid;
+    margin: 15%;
+    margin-top: auto;
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+  input {
+  }
